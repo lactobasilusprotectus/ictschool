@@ -1,0 +1,17 @@
+/.env
+.env
+storage/*.key
+/storage/*
+/storage/logs/*
+img/*
+/img/*
+public/images/*
+docss.zip
+docs/uml.zip
+backups/*
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+vendor/*
+./vendor/*
